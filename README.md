@@ -1,2 +1,2 @@
-# zero_day
+zero_day project
 How to setup vagrant
